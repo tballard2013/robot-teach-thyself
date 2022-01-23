@@ -24,3 +24,6 @@ Aside: Not aiming at playing faster, better, cheaper, ...yet, or maybe even ever
 
 [ ] What else? 
 * Solving a fixed problem such as that of discovering and playing chess seems like a problem with a more knowable set of parameters... solving for the sun burning out or an unrecognized extinction event or the limits of moving sentience out across large geographic or spatial landscapes is a fascinating (and maybe important) area to try to contribute to the collective efforts. Can this evolve to help in any way?
+
+[ ] Considerations
+* Validation/Protection against malfunctioning robots. Some humans exhibit a tendancy to cause harm through bad or inaccurate information, or worse. Thinking about something like "the discovery of lying" here, where an actor might compete for a greater share through sabotage although it doesn't have to be nefarious, could just be a classic bias that is the trigger. How does the strategy and observation change to account for this and how might we go about quantifying the problem and scoping solutions.
