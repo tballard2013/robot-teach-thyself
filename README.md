@@ -6,8 +6,11 @@ I also tend mentally to gamify everything that interests me--and this is no exce
 
 Idea: How would you teach a robot to play chess ...and where are others in this process. 
 
-[ ] Current state: Has this problem already been solved?
+[ ] Current state: Has this problem already been solved... 
 * If so, where are the frontiers in that solution... is there anything else to be contributed here and what is the barrier to entry in doing so?
+* What about Deep Blue?!? True, these are maybe the first obvious response; but I'm interested more in chess as a problem set--not in beating a human player, but instead in some abstraction/entity developing the capacity to recognize that there is this pre-existing thing called chess, it has rules, it has history and richness and provides inspiration and potential to develop patterns of thought or action in an observer that can learn. 
+
+Aside: Not aiming at playing faster, better, cheaper, ...yet, or maybe even ever. At this most basic level even the idea of extruding USD from the efforts might be anti-thetical, though who doesn't want more flex--not a criticism so much as just holding off that interest until the genesis of the idea has germinated. Perhaps at that point maybe further relying on economic/market principles and capital allocation to vote (for or against) whether there is value here. (...okay, now back to earth.)
   
 [ ] First pass:
 * The mental model. (Ignore the physical aspects at this point; just trying to start tackling the self-observation, reasoning and logic, and then how to start testing the logic assumptions for validity.)
